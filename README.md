@@ -200,23 +200,28 @@ General brush command,
 
 
 - melt, fill, fill, smooth, floatclean : voxel brush,
+
   *permission : experode.use*
 
 
 - clipboards : save several selections and place them randomly,
+
   *permission : expclipboards.use*
 
 
 - cube : cube brush
+
   *permission : expcube.use*
 
 
 - 2dCube : place a cube with an angle corresponding to the angle that the player has
+
   *permission : exp2dcube.use.use*
 
 <img src="https://imgur.com/EqbP1cz.png" title="Image_1" alt="deco">
 
 - sphere : sphere brush
+
   *permission : expsphere.use*
 
 
